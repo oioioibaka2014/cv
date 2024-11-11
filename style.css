@@ -4,6 +4,7 @@ body {
 }
 
 .Izquierda {
+    background-color: green;
     position: absolute;
     height: 98vh;
     width: 30%;
@@ -45,4 +46,31 @@ a {
     color: black;
     margin-left: 5px;
     margin-bottom: 5px;
+}
+
+.experiencias {
+    margin-top: -15%;
+}
+
+.form {
+    height: 300px;
+    width: 400px;
+    margin-top: 5%;
+    background-color: goldenrod;
+    border-radius: 5px;
+}
+
+.form input[type="text"],
+.form input[type="email"],
+.form textarea {
+    border-radius: 5px;
+}
+
+#mensa {
+    border-radius: 5px;
+    background-color: white;
+}
+
+#mensa:hover {
+    transform: scale(1.05);
 }
