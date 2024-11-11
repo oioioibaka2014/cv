@@ -6,7 +6,7 @@ body {
 .Izquierda {
     background-color: green;
     position: absolute;
-    height: 98vh;
+    height: 1145px;
     width: 30%;
 }
 
@@ -20,7 +20,7 @@ img {
 }
 
 .B {
-    height: 66vh;
+    height: 100%;
     width: 100%;
     margin-top: 10px;
 }
