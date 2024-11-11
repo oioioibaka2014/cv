@@ -1,0 +1,48 @@
+body {
+    background-color: lightgreen;
+    font-size: larger;
+}
+
+.Izquierda {
+    position: absolute;
+    height: 98vh;
+    width: 30%;
+}
+
+img {
+    height: auto;
+    width: auto;
+    border-radius: 45%;
+    background-color: white;
+    margin-left: 145px;
+    margin-top: 10px;
+}
+
+.B {
+    height: 66vh;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.Derecha {
+    position: absolute;
+    height: 98vh;
+    width: 60%;
+    margin-left: 33%;
+}
+
+.C {
+    height: 66vh;
+    width: auto;
+    margin-top: 30px;
+}
+
+#cono {
+    margin-top: 10%;
+}
+
+a {
+    color: black;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
